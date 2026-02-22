@@ -1,0 +1,13 @@
+../Core/Src/main.c:88:6:Ultrasonic_Trigger	1
+../Core/Src/main.c:98:6:ProducerTask_Entry	1
+../Core/Src/main.c:117:6:ConsumerTask_Entry	2
+../Core/Src/main.c:139:6:HAL_GPIO_EXTI_Callback	3
+../Core/Src/main.c:154:6:BlinkLEDCallback	2
+../Core/Src/main.c:162:6:HAL_TIM_IC_CaptureCallback	5
+../Core/Src/main.c:217:5:main	6
+../Core/Src/main.c:303:6:SystemClock_Config	4
+../Core/Src/main.c:358:13:MX_TIM2_Init	4
+../Core/Src/main.c:406:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:439:13:MX_GPIO_Init	1
+../Core/Src/main.c:497:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:514:6:Error_Handler	1

@@ -1,0 +1,10 @@
+../Core/Src/main.c:73:6:Task01_Producer	2
+../Core/Src/main.c:96:6:Task02_Producer	2
+../Core/Src/main.c:119:6:Task03_Consumer	2
+../Core/Src/main.c:144:6:HAL_UART_RxCpltCallback	4
+../Core/Src/main.c:173:5:main	2
+../Core/Src/main.c:240:6:SystemClock_Config	3
+../Core/Src/main.c:288:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:321:13:MX_GPIO_Init	1
+../Core/Src/main.c:358:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:375:6:Error_Handler	1
