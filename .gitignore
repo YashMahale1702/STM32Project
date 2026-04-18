@@ -1,0 +1,12 @@
+STM32_Driver_Development/
+ADC/
+DMA_UART/
+GPIO_Driver/
+GPIO_EXTI/
+RTC_Driver
+
+F446_Application/
+F446_Bootloader/
+
+.ide.log*
+.metadata
